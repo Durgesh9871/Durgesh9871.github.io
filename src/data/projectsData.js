@@ -9,36 +9,36 @@ import eight from '../assets/svg/projects/eight.svg'
 
 
 export const projectsData = [
-    {
-        id: 8,
-        projectName: 'Wrike Clone',
-        projectDesc: 'Wrike is an easy-to-use tool for streamlining the internal project management and collaboration processes between team members',
-        tags: [  'HTML',' CSS',' JAVA-SCRIPT ','  API ','  Es6 ',' FontAwesome'
-        ],
-        code: 'https://github.com/Durgesh9871/teal-fuel-7913',
-        demo: 'https://im-debabrata-wrike.netlify.app/index.html',
-        image: 'https://managementhelp.org/wp-content/uploads/2022/03/Wrike-homepage-1024x483.png'
-    },
-    {
-        id: 6,
-        projectName: 'Wrike Clone',
-        projectDesc: 'Wrike is an easy-to-use tool for streamlining the internal project management and collaboration processes between team members',
-        tags:  [   'HTML',' CSS',' JAVA-SCRIPT ','  API ','  Es6 ',' FontAwesome'
-    ],
-        code: 'https://github.com/Durgesh9871/teal-fuel-7913',
-        demo: 'https://im-debabrata-wrike.netlify.app/index.html',
-        image: 'https://managementhelp.org/wp-content/uploads/2022/03/Wrike-homepage-1024x483.png'
-    },
-    {
-        id: 7,
-        projectName: 'Wrike Clone',
-        projectDesc: 'Wrike is an easy-to-use tool for streamlining the internal project management and collaboration processes between team members',
-        tags: [   'HTML',' CSS',' JAVA-SCRIPT ','  API ','  Es6 ',' FontAwesome'
-        ],
-        code: 'https://github.com/Durgesh9871/teal-fuel-7913',
-        demo: 'https://im-debabrata-wrike.netlify.app/index.html',
-        image: 'https://managementhelp.org/wp-content/uploads/2022/03/Wrike-homepage-1024x483.png'
-    },
+    // {
+    //     id: 8,
+    //     projectName: 'Wrike Clone',
+    //     projectDesc: 'Wrike is an easy-to-use tool for streamlining the internal project management and collaboration processes between team members',
+    //     tags: [  'HTML',' CSS',' JAVA-SCRIPT ','  API ','  Es6 ',' FontAwesome'
+    //     ],
+    //     code: 'https://github.com/Durgesh9871/teal-fuel-7913',
+    //     demo: 'https://im-debabrata-wrike.netlify.app/index.html',
+    //     image: 'https://managementhelp.org/wp-content/uploads/2022/03/Wrike-homepage-1024x483.png'
+    // },
+    // {
+    //     id: 6,
+    //     projectName: 'Wrike Clone',
+    //     projectDesc: 'Wrike is an easy-to-use tool for streamlining the internal project management and collaboration processes between team members',
+    //     tags:  [   'HTML',' CSS',' JAVA-SCRIPT ','  API ','  Es6 ',' FontAwesome'
+    // ],
+    //     code: 'https://github.com/Durgesh9871/teal-fuel-7913',
+    //     demo: 'https://im-debabrata-wrike.netlify.app/index.html',
+    //     image: 'https://managementhelp.org/wp-content/uploads/2022/03/Wrike-homepage-1024x483.png'
+    // },
+    // {
+    //     id: 7,
+    //     projectName: 'Wrike Clone',
+    //     projectDesc: 'Wrike is an easy-to-use tool for streamlining the internal project management and collaboration processes between team members',
+    //     tags: [   'HTML',' CSS',' JAVA-SCRIPT ','  API ','  Es6 ',' FontAwesome'
+    //     ],
+    //     code: 'https://github.com/Durgesh9871/teal-fuel-7913',
+    //     demo: 'https://im-debabrata-wrike.netlify.app/index.html',
+    //     image: 'https://managementhelp.org/wp-content/uploads/2022/03/Wrike-homepage-1024x483.png'
+    // },
     // ADDING NEW PROJECTS 
 
     {
