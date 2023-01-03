@@ -64,6 +64,7 @@ const Home = () => {
        <Button fontSize="13px" fontFamily="sans-serif" className='button' 
        color="black"  bg="skyblue">Resume |<ViewIcon/></Button>
        </a> 
+       
       {headerData.resumePdf &&  <a
           href={headerData.resumePdf}
           download='resume'
