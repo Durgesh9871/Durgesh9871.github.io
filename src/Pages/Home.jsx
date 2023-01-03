@@ -60,7 +60,7 @@ const Home = () => {
 
          <p> I am a Full Stack Developer, passionate about building digital products that improve everyday experience for people.</p>
          <div className='btn1'>
-       <a  target={"_blank"} href="https://drive.google.com/file/d/1UVZ_9Y4vVQLLCJvM_f_Vd7xbbimP4vTF/view?usp=sharing"> 
+       <a  target={"_blank"} href="https://1drv.ms/b/s!AqcKQLC4DurdbxqaIvlWk1svY1c?e=mtcyJL"> 
        <Button fontSize="13px" fontFamily="sans-serif" className='button' 
        color="black"  bg="skyblue">Resume |<ViewIcon/></Button>
        </a> 
