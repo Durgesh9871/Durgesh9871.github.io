@@ -263,7 +263,7 @@ const Projects = () => {
               </a>
               <a
                 target={"_blank"}
-                href="https://github.com/masai-course/durgesh_fw20_0472/tree/master/unit-2/Optional/S.MusicAPI.html"
+                href="https://github.com/Durgesh9871/Spotify/tree/main"
               >
                 {" "}
                 <Button
