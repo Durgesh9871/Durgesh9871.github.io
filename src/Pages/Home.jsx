@@ -67,7 +67,7 @@ const Home = () => {
        
       {headerData.resumePdf &&  <a
           href={headerData.resumePdf}
-          download='resume'
+          download='Durgesh-Singh-Resume'
           target='_blank'
           rel='noreferrer'
         >
