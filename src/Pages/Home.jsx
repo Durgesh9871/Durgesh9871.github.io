@@ -80,7 +80,7 @@ const Home = () => {
         >
           
           <Button  fontSize="13px" ml="5px"  fontFamily="sans-serif" className='button' onClick={()=> Resume()}  
-       color="black"  bg="skyblue">Resume |<DownloadIcon /></Button>
+       color="black"  bg="skyblue"><ViewIcon/> | Resume |<DownloadIcon /></Button>
         </a> }
        
        <a  target={"_blank"} href="https://github.com/Durgesh9871"> <Button ml="2px" fontSize="13px"   fontFamily="sans-serif" className='button'  color="black"  bgGradient='linear(to-r, darkgray,grey,white)' >Github <Icon as={BsGithub} />
