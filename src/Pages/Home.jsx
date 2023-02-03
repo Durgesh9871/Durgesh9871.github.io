@@ -7,7 +7,13 @@ import '../CssPages/Home.css';
 import { headerData } from '../data/header'
 
 const Home = () => {
-  
+
+  const Resume = ()=>{
+    window.open("https://1drv.ms/b/s!AqcKQLC4DurdbxqaIvlWk1svY1c?e=mtcyJL");
+    
+
+  }  
+
   return (
     <div id="hero">
     <div className='Home'>
@@ -60,19 +66,20 @@ const Home = () => {
 
          <p> I am a Full Stack Developer, passionate about building digital products that improve everyday experience for people.</p>
          <div className='btn1'>
-       <a  target={"_blank"} href="https://1drv.ms/b/s!AqcKQLC4DurdbxqaIvlWk1svY1c?e=mtcyJL"> 
+       {/* <a  target={"_blank"} href="https://1drv.ms/b/s!AqcKQLC4DurdbxqaIvlWk1svY1c?e=mtcyJL"> 
        <Button fontSize="13px" fontFamily="sans-serif" className='button' 
        color="black"  bg="skyblue">Resume |<ViewIcon/></Button>
-       </a> 
+       </a>  */}
        
       {headerData.resumePdf &&  <a
           href={headerData.resumePdf}
           download='Durgesh-Singh-Resume'
           target='_blank'
           rel='noreferrer'
+          
         >
           
-          <Button  fontSize="13px" ml="5px"  fontFamily="sans-serif" className='button'
+          <Button  fontSize="13px" ml="5px"  fontFamily="sans-serif" className='button' onClick={()=> Resume()}  
        color="black"  bg="skyblue">Resume |<DownloadIcon /></Button>
         </a> }
        
