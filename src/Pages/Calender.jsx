@@ -11,7 +11,7 @@ const Calender = () => {
 
         return contribution.filter((day)=>{
             const date=new Date(day.date);
-            const monthOfDay=date.getMonth();
+            // const monthOfDay=date.getMonth();
 
             return (
                 date.getFullYear()
