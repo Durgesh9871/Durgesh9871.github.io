@@ -159,6 +159,75 @@ const Projects = () => {
           </Box>
 
 
+          {/* Siliconix Website  */}
+
+          <Box
+            style={{ marginBottom: "50px" }}
+            bg="#4e6e8e"
+            className="Project1"
+            data-aos="fade-right"
+            data-aos-offset="-100"
+            data-aos-delay="50"
+            data-aos-duration="1000"
+            data-aos-easing="ease-in-out"
+            data-aos-mirror="true"
+            data-aos-once="false"
+            data-aos-anchor-placement="top-center"
+          >
+            <div>
+              <img src={Delicious}  />
+            </div>
+            <div className="ProjectD">
+              <h1 style={{cursor:"pointer"}}><u>
+              <a target={"_blank"} href="https://delicious-durgesh9871.vercel.app/">Delicious</a></u></h1>
+              <h2><b>Delicious is your one-stop fresh meat delivery shop. In here, you get nothing but the freshest meat & seafood, delivered straight to your doorstep.</b></h2>
+
+              <li>Login & Sign Up</li>
+              <li>Created Product Page </li>
+              <li>Dynamic Filtering options on diffrent basics</li>
+              <li>Dynamic Sorting & Pagination in Product page</li>
+              <li>Skeleton of page while loading</li>
+              <li>Created Single page</li>
+              <li>Cart Page for users to add Items</li>
+             
+              <h2><b>
+                Tech stack-  ReactJs | ChakraUi | Redux | Css | HTML 
+                </b> </h2>
+              <a target={"_blank"} href="https://delicious-durgesh9871.vercel.app/">
+                {" "}
+                <Button
+                  fontSize={{ base: "0.8em" }}
+                  className="btn"
+                  color="black"
+                  mb="15px"
+                  bg="white"
+                >
+                  Website
+                </Button>
+              </a>
+
+              <a
+                target={"_blank"}
+                href="https://github.com/prabhash1475/delicious"
+              >
+                {" "}
+                <Button
+                  fontSize={{ base: "0.8em" }}
+                  className="btn"
+                  color="white"
+                  bg="black"
+                  ml="10px"
+                  mb="15px"
+                >
+                  {" "}
+                  Github
+                  <Icon as={BsGithub} />
+                </Button>
+              </a>
+            </div>
+          </Box>
+
+
           {/* Top Projects ------------------------- */}
 
           {/* Wrike ----- */}
