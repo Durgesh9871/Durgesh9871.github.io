@@ -35,7 +35,7 @@ const toggleMenu=()=>{
    <Link to="SkillScroll" spy={true} smooth={true} offset={-100} duration={700} onClick={closeMenu}> <h2 className="nav_catagory"><AddIcon />Skills</h2></Link>
    <Link  to="projectScroll" spy={true} smooth={true} offset={-100} duration={700} onClick={closeMenu} > <h2 className="nav_catagory"><AttachmentIcon /> Projects</h2></Link>
    <Link to="contactScroll" spy={true} smooth={true} offset={-100} duration={700} onClick={closeMenu} > <h2 className="nav_catagory"><PhoneIcon />Contact</h2></Link>
-   <Link to="contactScroll" spy={true} smooth={true} offset={-100} duration={700} onClick={closeMenu} > <h2 className="nav_catagory"><ViewIcon /> Resume <DownloadIcon /></h2></Link>
+   <h2 className="nav_catagory"><ViewIcon /> Resume <DownloadIcon /></h2> 
 
    </div>
   </div>
