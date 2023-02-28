@@ -88,6 +88,76 @@ const Projects = () => {
               </a>
             </div>
           </Box>
+  
+         {/* Delicious website ---------------- */}
+             
+         <Box
+            style={{ marginBottom: "50px" }}
+            bg="#f6d9b6"
+            className="Project1"
+            data-aos="fade-right"
+            data-aos-offset="-100"
+            data-aos-delay="50"
+            data-aos-duration="1000"
+            data-aos-easing="ease-in-out"
+            data-aos-mirror="true"
+            data-aos-once="false"
+            data-aos-anchor-placement="top-center"
+          >
+            <div>
+              <img src={FashionHunter}  />
+            </div>
+            <div className="ProjectD">
+              <h1 style={{cursor:"pointer"}}><u>
+              <a target={"_blank"} href="https://fashion-hunter.netlify.app/">Fashion Hunter</a></u></h1>
+              <h2><b>Looking for stylish men's clothing? Look no further than our e-commerce website, where you'll find the latest fashion trends at affordable prices. Shop now and upgrade your wardrobe with ease!</b></h2>
+
+              <li>Authentication and OTP verification</li>
+              <li>Authorization using token</li>
+              <li>Created Product Page </li>
+              <li>Dyanamic Filtering, Sorting and Pagination in Product page</li>
+              <li>Skeleton of page while loading</li>
+              <li>Created Single page</li>
+              <li>Image magnify effect on Single page</li>
+              <li>Created Real time Review & Rating system</li>
+              <li>Created Review page & its Pagination</li>
+              <li>Created Wishlist & Cart Page</li>
+             
+              <h2><b>
+                Tech stack- NodeJs | ExpressJs | MongoDb | ReactJs | ChakraUi | Nodemailer | Css | HTML 
+                </b> </h2>
+              <a target={"_blank"} href="https://fashion-hunter.netlify.app/">
+                {" "}
+                <Button
+                  fontSize={{ base: "0.8em" }}
+                  className="btn"
+                  color="black"
+                  mb="15px"
+                  bg="white"
+                >
+                  Website
+                </Button>
+              </a>
+              <a
+                target={"_blank"}
+                href="https://github.com/Sagar1079/fashion_hunter_project"
+              >
+                {" "}
+                <Button
+                  fontSize={{ base: "0.8em" }}
+                  className="btn"
+                  color="white"
+                  bg="black"
+                  ml="10px"
+                  mb="15px"
+                >
+                  {" "}
+                  Github
+                  <Icon as={BsGithub} />
+                </Button>
+              </a>
+            </div>
+          </Box>
 
 
           {/* Top Projects ------------------------- */}
