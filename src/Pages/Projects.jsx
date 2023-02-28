@@ -5,6 +5,7 @@ import React from "react";
 import "../CssPages/Projects.css";
 
 import FashionHunter from "../Portfolio_Images/FashionHunter.png"
+import Delicious from "../Portfolio_Images/Delicious.png"
 import Anthropologie from "../Portfolio_Images/Anthropologie.png"
 import Mentimeter from "../Portfolio_Images/Mentimeter.png"
 import Spotify from "../Portfolio_Images/Spotify.png"
@@ -105,12 +106,12 @@ const Projects = () => {
             data-aos-anchor-placement="top-center"
           >
             <div>
-              <img src={FashionHunter}  />
+              <img src={Delicious}  />
             </div>
             <div className="ProjectD">
               <h1 style={{cursor:"pointer"}}><u>
-              <a target={"_blank"} href="https://fashion-hunter.netlify.app/">Fashion Hunter</a></u></h1>
-              <h2><b>Looking for stylish men's clothing? Look no further than our e-commerce website, where you'll find the latest fashion trends at affordable prices. Shop now and upgrade your wardrobe with ease!</b></h2>
+              <a target={"_blank"} href="https://delicious-durgesh9871.vercel.app/">Delicious</a></u></h1>
+              <h2><b>Delicious is your one-stop fresh meat delivery shop. In here, you get nothing but the freshest meat & seafood, delivered straight to your doorstep.</b></h2>
 
               <li>Authentication and OTP verification</li>
               <li>Authorization using token</li>
@@ -126,7 +127,7 @@ const Projects = () => {
               <h2><b>
                 Tech stack- NodeJs | ExpressJs | MongoDb | ReactJs | ChakraUi | Nodemailer | Css | HTML 
                 </b> </h2>
-              <a target={"_blank"} href="https://fashion-hunter.netlify.app/">
+              <a target={"_blank"} href="https://delicious-durgesh9871.vercel.app/">
                 {" "}
                 <Button
                   fontSize={{ base: "0.8em" }}
@@ -138,9 +139,10 @@ const Projects = () => {
                   Website
                 </Button>
               </a>
+              
               <a
                 target={"_blank"}
-                href="https://github.com/Sagar1079/fashion_hunter_project"
+                href="https://github.com/prabhash1475/delicious"
               >
                 {" "}
                 <Button
