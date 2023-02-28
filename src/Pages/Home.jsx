@@ -5,6 +5,7 @@ import Typical from "react-typical"
 import React from 'react'
 import '../CssPages/Home.css';
 import { headerData } from '../data/header'
+import Durgesh from "../Portfolio_Images/Durgesh_Singh.jpg"
 
 const Home = () => {
 
@@ -27,7 +28,7 @@ const Home = () => {
     data-aos-anchor-placement="top-center" >
       <div className="round_css"></div>
           <div className='Img'  >
-            <Image  w="90%" borderRadius="50%" src="https://github.com/Durgesh9871/ReadmeImages/blob/main/PortfolioImageProfile/Durgesh.jpg?raw=true"/>
+            <Image  w="90%" borderRadius="50%" src={Durgesh} />
             </div>
          </div>
       <div className="Home-child2"  data-aos="fade-left"
