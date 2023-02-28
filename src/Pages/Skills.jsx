@@ -147,6 +147,56 @@ const Skills = () => {
                  <img style={{borderRadius:"50%"}} src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
                   <h1 style={{color:"#EBF8FF"}}>Github</h1>
                  </Box>
+
+                 {/*  Tools  */}
+                 <Box data-aos="fade-down"
+    data-aos-offset="-100"
+    data-aos-delay="50"
+    data-aos-duration="1000"
+    data-aos-easing="ease-in-out"
+    data-aos-mirror="true"
+    data-aos-once="false"
+    data-aos-anchor-placement="top-center" boxShadow= "4px 4px #EBF8FF, -0em 1px .4em #EBF8FF"  >
+                 <img style={{borderRadius:"50%"}} src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/512/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png" />
+                  <h1 style={{color:"#EBF8FF"}}>Netlify</h1>
+                 </Box>
+
+                 <Box data-aos="fade-down"
+    data-aos-offset="-100"
+    data-aos-delay="50"
+    data-aos-duration="1000"
+    data-aos-easing="ease-in-out"
+    data-aos-mirror="true"
+    data-aos-once="false"
+    data-aos-anchor-placement="top-center" boxShadow= "4px 4px #EBF8FF, -0em 1px .4em #EBF8FF"  >
+                 <img style={{borderRadius:"50%"}} src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/512/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" />
+                  <h1 style={{color:"#EBF8FF"}}>Postman</h1>
+                 </Box>
+
+                 <Box data-aos="fade-down"
+    data-aos-offset="-100"
+    data-aos-delay="50"
+    data-aos-duration="1000"
+    data-aos-easing="ease-in-out"
+    data-aos-mirror="true"
+    data-aos-once="false"
+    data-aos-anchor-placement="top-center" boxShadow= "4px 4px #EBF8FF, -0em 1px .4em #EBF8FF"  >
+                 <img style={{borderRadius:"50%"}} src="https://img.icons8.com/color/512/visual-studio-code-2019.png" />
+                  <h1 style={{color:"#EBF8FF"}}>Vs Code</h1>
+                 </Box>
+
+                 <Box data-aos="fade-down"
+    data-aos-offset="-100"
+    data-aos-delay="50"
+    data-aos-duration="1000"
+    data-aos-easing="ease-in-out"
+    data-aos-mirror="true"
+    data-aos-once="false"
+    data-aos-anchor-placement="top-center" boxShadow= "4px 4px #EBF8FF, -0em 1px .4em #EBF8FF"  >
+                 <img style={{borderRadius:"50%"}} src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/512/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" />
+                  <h1 style={{color:"#EBF8FF"}}>Vercel</h1>
+                 </Box>
+
                 
              </div>
         </div>
