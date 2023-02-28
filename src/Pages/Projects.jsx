@@ -42,17 +42,16 @@ const Projects = () => {
               <a target={"_blank"} href="https://fashion-hunter.netlify.app/">Fashion Hunter</a></u></h1>
               <h2><b>Looking for stylish men's clothing? Look no further than our e-commerce website, where you'll find the latest fashion trends at affordable prices. Shop now and upgrade your wardrobe with ease!</b></h2>
 
-
-              <li>
-                Created Product Page 
-              </li>
+              <li>Authentication and OTP verification</li>
+              <li>Authorization using token</li>
+              <li>Created Product Page </li>
               <li>Dyanamic Filtering, Sorting and Pagination in Product page</li>
               <li>Skeleton of page while loading</li>
-              <li>Created Responsive Single page</li>
+              <li>Created Single page</li>
               <li>Image magnify effect on Single page</li>
               <li>Created Real time Review & Rating system</li>
               <li>Created Review page & its Pagination</li>
-              <li>Created Responsive Wishlist & Cart Page</li>
+              <li>Created Wishlist & Cart Page</li>
              
               <h2><b>
                 Tech stack- NodeJs | ExpressJs | MongoDb | ReactJs | ChakraUi | Nodemailer | Css | HTML 
