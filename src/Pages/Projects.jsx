@@ -3,8 +3,13 @@ import { Icon, Box } from "@chakra-ui/react";
 import { BsGithub } from "react-icons/bs"; 
 import React from "react";
 import "../CssPages/Projects.css";
-import Anthropologie from "../Portfolio_Images/Anthropologie.png"
 
+import Anthropologie from "../Portfolio_Images/Anthropologie.png"
+import Mentimeter from "../Portfolio_Images/Mentimeter.png"
+import Spotify from "../Portfolio_Images/Spotify.png"
+import Weather from "../Portfolio_Images/Weather.png"
+import Wrike from "../Portfolio_Images/Wrike.png"
+ 
 
 const Projects = () => {
   return (
