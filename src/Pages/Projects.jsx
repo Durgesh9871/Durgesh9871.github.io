@@ -17,6 +17,80 @@ const Projects = () => {
       <div className="Project">
         <h1>Projects</h1>
         <div className="ProjectGrid">
+            
+            {/*  Fashion Hunter ----------------- */}
+             
+            <Box
+            style={{ marginBottom: "50px" }}
+            bg="#B794F4"
+            className="Project1"
+            data-aos="fade-right"
+            data-aos-offset="-100"
+            data-aos-delay="50"
+            data-aos-duration="1000"
+            data-aos-easing="ease-in-out"
+            data-aos-mirror="true"
+            data-aos-once="false"
+            data-aos-anchor-placement="top-center"
+          >
+            <div>
+              <img src={Anthropologie}  />
+            </div>
+            <div className="ProjectD">
+              <h1 style={{cursor:"pointer"}}><u>
+              <a target={"_blank"} href="https://aquamarine-fenglisu-ddf06e.netlify.app/index.html">Anthroplogie </a></u></h1>
+              <h2><b>Anthropologie is a unique, with a mostly exclusive assortment of clothing, accessories, home décor etc.!</b></h2>
+
+
+              <li>
+                Created the Sign-in and Sign-up functionality
+              </li>
+              <li>Created all category of Products pages .</li>
+              <li>Filtering options on diffrent basics</li>
+              <li>Sorting according to price</li>
+              <li>Created Home Page</li>
+              <li>Created Navbar and Footer</li>
+             
+              <h2><b>
+                Tech stack- JavaScript | CSS | HTML | Font-Awesome 
+                </b> </h2>
+              <a target={"_blank"} href="https://aquamarine-fenglisu-ddf06e.netlify.app/index.html">
+                {" "}
+                <Button
+                  fontSize={{ base: "0.8em" }}
+                  className="btn"
+                  color="black"
+                  mb="15px"
+                  bg="white"
+                >
+                  Website
+                </Button>
+              </a>
+              <a
+                target={"_blank"}
+                href="https://github.com/Durgesh9871/shallow-creature-244"
+              >
+                {" "}
+                <Button
+                  fontSize={{ base: "0.8em" }}
+                  className="btn"
+                  color="white"
+                  bg="black"
+                  ml="10px"
+                  mb="15px"
+                >
+                  {" "}
+                  Github
+                  <Icon as={BsGithub} />
+                </Button>
+              </a>
+            </div>
+          </Box>
+
+
+          {/* Top Projects ------------------------- */}
+
+          {/* Wrike ----- */}
           <Box
             bg="#FEB2B2"
             className="Project1"
@@ -84,6 +158,8 @@ const Projects = () => {
               </a>
             </div>
           </Box>
+
+{/*  Anthropologie------- */}
           <Box
             style={{ marginTop: "50px" }}
             bg="#B794F4"
@@ -150,6 +226,9 @@ const Projects = () => {
               </a>
             </div>
           </Box>
+
+
+          {/*  Mentimeter --- */}
           <Box
             bg="skyblue;"
             style={{ marginTop: "50px" }}
