@@ -17,9 +17,17 @@ const Navbar = ({handleClick,theme}) => {
 const [click,setClick]=useState(false)
 const [openMenuBar,setOpenMenuBar]=useState(false); 
 const closeMenu=()=>setClick(false)
+
+
 const toggleMenu=()=>{
   setOpenMenuBar(!openMenuBar)
 }
+
+const Resume = ()=>{
+  window.open("https://1drv.ms/b/s!AqcKQLC4DurdbxqaIvlWk1svY1c?e=mtcyJL");
+  
+}  
+
   return (
    
   <div className='Navbar' style={{backgroundColor:theme?"black":"#011627"}} >
