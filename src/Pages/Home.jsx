@@ -64,7 +64,7 @@ const Home = () => {
          />
          </h1>
 
-         <p> I am a Full Stack Developer, passionate about building digital products that improve everyday experience for people.</p>
+         <p> I am a Full Stack Developer, Crafting elegant and scalable web solutions using cutting-edge technologies and frameworks to deliver seamless user experiences.</p>
          <div className='btn1'>
        {/* <a  target={"_blank"} href="https://1drv.ms/b/s!AqcKQLC4DurdbxqaIvlWk1svY1c?e=mtcyJL"> 
        <Button fontSize="13px" fontFamily="sans-serif" className='button' 
