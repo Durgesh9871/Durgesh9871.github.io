@@ -163,7 +163,7 @@ const Projects = () => {
 
           <Box
             style={{ marginBottom: "50px" }}
-            bg="#4e6e8e"
+            bg="#eaebec"
             className="Project1"
             data-aos="fade-right"
             data-aos-offset="-100"
@@ -179,16 +179,16 @@ const Projects = () => {
             </div>
             <div className="ProjectD">
               <h1 style={{cursor:"pointer"}}><u>
-              <a target={"_blank"} href="https://delicious-durgesh9871.vercel.app/">Delicious</a></u></h1>
-              <h2><b>Delicious is your one-stop fresh meat delivery shop. In here, you get nothing but the freshest meat & seafood, delivered straight to your doorstep.</b></h2>
+              <a target={"_blank"} href="https://delicious-durgesh9871.vercel.app/">Siliconix</a></u></h1>
+              <h2><b>This website sells electronics such as laptops, phones, refrigerators, and TVs. Customers can browse, purchase, and receive their products online or in-store. </b></h2>
 
-              <li>Login & Sign Up</li>
+              <li>Admin Panel </li>
               <li>Created Product Page </li>
-              <li>Dynamic Filtering options on diffrent basics</li>
-              <li>Dynamic Sorting & Pagination in Product page</li>
+              <li>Created Product Filters, Based on Category, Color & Rating</li>
               <li>Skeleton of page while loading</li>
+              <li>Login & Sign Up</li>
               <li>Created Single page</li>
-              <li>Cart Page for users to add Items</li>
+              <li>Cart Page</li>
              
               <h2><b>
                 Tech stack-  ReactJs | ChakraUi | Redux | Css | HTML 
@@ -208,7 +208,7 @@ const Projects = () => {
 
               <a
                 target={"_blank"}
-                href="https://github.com/prabhash1475/delicious"
+                href="https://github.com/Durgesh9871/Siliconix"
               >
                 {" "}
                 <Button
