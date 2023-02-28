@@ -193,7 +193,7 @@ const Skills = () => {
     data-aos-mirror="true"
     data-aos-once="false"
     data-aos-anchor-placement="top-center" boxShadow= "4px 4px #EBF8FF, -0em 1px .4em #EBF8FF"  >
-                 <img style={{borderRadius:"50%"}} src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/512/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" />
+                 <img style={{borderRadius:"50%"}} src="https://img.icons8.com/material-outlined/512/verge.png" />
                   <h1 style={{color:"#EBF8FF"}}>Vercel</h1>
                  </Box>
 
