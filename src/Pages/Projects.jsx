@@ -6,6 +6,7 @@ import "../CssPages/Projects.css";
 
 import FashionHunter from "../Portfolio_Images/FashionHunter.png"
 import Delicious from "../Portfolio_Images/Delicious.png"
+import Siliconix from "../Portfolio_Images/Siliconix.png"
 import Anthropologie from "../Portfolio_Images/Anthropologie.png"
 import Mentimeter from "../Portfolio_Images/Mentimeter.png"
 import Spotify from "../Portfolio_Images/Spotify.png"
@@ -175,11 +176,11 @@ const Projects = () => {
             data-aos-anchor-placement="top-center"
           >
             <div>
-              <img src={Delicious}  />
+              <img src={Siliconix}  />
             </div>
             <div className="ProjectD">
               <h1 style={{cursor:"pointer"}}><u>
-              <a target={"_blank"} href="https://delicious-durgesh9871.vercel.app/">Siliconix</a></u></h1>
+              <a target={"_blank"} href="https://siliconix.netlify.app/">Siliconix</a></u></h1>
               <h2><b>This website sells electronics such as laptops, phones, refrigerators, and TVs. Customers can browse, purchase, and receive their products online or in-store. </b></h2>
 
               <li>Admin Panel </li>
@@ -193,7 +194,7 @@ const Projects = () => {
               <h2><b>
                 Tech stack-  ReactJs | ChakraUi | Redux | Css | HTML 
                 </b> </h2>
-              <a target={"_blank"} href="https://delicious-durgesh9871.vercel.app/">
+              <a target={"_blank"} href="https://siliconix.netlify.app/">
                 {" "}
                 <Button
                   fontSize={{ base: "0.8em" }}
