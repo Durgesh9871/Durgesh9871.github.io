@@ -5,9 +5,9 @@ import "../CssPages/Calender.css"
 import ReactTooltip from 'react-tooltip'
 const Calender = () => {
     const selectLastHalfYear=(contribution)=>{
-        const currentYear=new Date().getFullYear();
-        const currentMonth=new Date().getMonth();
-        const showMonths=12 ;
+        // const currentYear=new Date().getFullYear();
+        // const currentMonth=new Date().getMonth();
+        // const showMonths=12 ;
 
         return contribution.filter((day)=>{
             const date=new Date(day.date);
