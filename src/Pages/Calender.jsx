@@ -7,15 +7,14 @@ const Calender = () => {
     const selectLastHalfYear=(contribution)=>{
         const currentYear=new Date().getFullYear();
         const currentMonth=new Date().getMonth();
-        const showMonths=6;
+        const showMonths=12 ;
 
         return contribution.filter((day)=>{
             const date=new Date(day.date);
             const monthOfDay=date.getMonth();
 
             return (
-                date.getFullYear()===currentYear && monthOfDay>currentMonth-showMonths &&
-                monthOfDay<=currentMonth
+                date.getFullYear()
             )
         })
     }
