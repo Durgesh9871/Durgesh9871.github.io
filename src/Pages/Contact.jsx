@@ -37,7 +37,7 @@ const Contact = () => {
                     </div>
             </div>
           </div>
-          <div className='logo' data-aos="fade-up"
+          <div className='logo'  data-aos="fade-up"  style={{border:"2px  red", display:"flex",justifyContent:"center" ,width:"70%" }}
     data-aos-offset="-400"
     data-aos-delay="50"
     data-aos-duration="1000"
@@ -56,7 +56,7 @@ const Contact = () => {
 
 
           </div>
-            <h4 className='footer'>Designed 💻 and Built by Durgesh </h4>
+            <h4 className='footer' style={{textAlign:"center" , border:"2px  red" ,margin:"auto"}}>Designed 💻 and Built by Durgesh </h4>
         </div>
 
     </div>
