@@ -211,6 +211,7 @@ const Projects = () => {
 
           {/*  Sotify clone is here -------------------------- */}
 
+
           <Box
               bgGradient={[
                 "linear( teal.300, yellow.400)",
