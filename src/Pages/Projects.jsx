@@ -30,7 +30,7 @@ const Projects = () => {
             data-aos-anchor-placement="top-center"
           >
              <div>
-           <img src="https://managementhelp.org/wp-content/uploads/2022/03/Wrike-homepage-1024x483.png" 
+           <img src={Wrike} 
            />
             </div>
             <div className="ProjectD">
@@ -38,7 +38,7 @@ const Projects = () => {
             <a
                 target={"_blank"}
                 href="https://wrike9871.netlify.app/"
-              >  Wrike Clone </a></u></h1> 
+              >  Wrike  </a></u></h1> 
               <h2><b>Wrike is an easy-to-use tool for streamlining the internal project management and collaboration processes between team members!</b></h2>
 
               <li>Created a Drop down Navigation bar</li>
@@ -164,7 +164,7 @@ const Projects = () => {
             data-aos-anchor-placement="top-center"
           >
             <div>
-              <img src="https://github.com/Durgesh9871/ReadmeImages/raw/main/Mentimeter/homepage/Screenshot%20(54).png?raw=true" />
+              <img src={Mentimeter} />
             </div>
             <div className="ProjectD">
               <h1 style={{cursor:"pointer"}}><u> 
@@ -235,7 +235,7 @@ const Projects = () => {
             data-aos-anchor-placement="top-center"
           >
             <div>
-              <img src="https://github.com/Durgesh9871/ReadmeImages/blob/main/Spotify_Images/Screenshot%20(108).png?raw=true"  />
+              <img src={Spotify}  />
             </div>
             <div className="ProjectD">
               <h1 style={{cursor:"pointer"}}><u>
@@ -306,7 +306,7 @@ const Projects = () => {
             data-aos-anchor-placement="top-center"
           >
             <div>
-              <img src="https://www.adventurebikerider.com/wp-content/uploads/2017/10/tumblr_o27c7fByaO1tchrkco1_500.gif" />
+              <img src={Weather} />
             </div>
             <div className="ProjectD">
               <h1 style={{cursor:"pointer"}}><u>
