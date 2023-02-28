@@ -4,6 +4,7 @@ import { BsGithub } from "react-icons/bs";
 import React from "react";
 import "../CssPages/Projects.css";
 
+import FashionHunter from "../Portfolio_Images/FashionHunter.png"
 import Anthropologie from "../Portfolio_Images/Anthropologie.png"
 import Mentimeter from "../Portfolio_Images/Mentimeter.png"
 import Spotify from "../Portfolio_Images/Spotify.png"
@@ -34,12 +35,12 @@ const Projects = () => {
             data-aos-anchor-placement="top-center"
           >
             <div>
-              <img src={Anthropologie}  />
+              <img src={FashionHunter}  />
             </div>
             <div className="ProjectD">
               <h1 style={{cursor:"pointer"}}><u>
-              <a target={"_blank"} href="https://aquamarine-fenglisu-ddf06e.netlify.app/index.html">Anthroplogie </a></u></h1>
-              <h2><b>Anthropologie is a unique, with a mostly exclusive assortment of clothing, accessories, home décor etc.!</b></h2>
+              <a target={"_blank"} href="https://fashion-hunter.netlify.app/">Fashion Hunter</a></u></h1>
+              <h2><b>Looking for stylish men's clothing? Look no further than our e-commerce website, where you'll find the latest fashion trends at affordable prices. Shop now and upgrade your wardrobe with ease!</b></h2>
 
 
               <li>
@@ -52,9 +53,9 @@ const Projects = () => {
               <li>Created Navbar and Footer</li>
              
               <h2><b>
-                Tech stack- JavaScript | CSS | HTML | Font-Awesome 
+                Tech stack- NodeJs | ExpressJs | MongoDb | ReactJs | ChankraUi | Nodemailer | Css | HTML 
                 </b> </h2>
-              <a target={"_blank"} href="https://aquamarine-fenglisu-ddf06e.netlify.app/index.html">
+              <a target={"_blank"} href="https://fashion-hunter.netlify.app/">
                 {" "}
                 <Button
                   fontSize={{ base: "0.8em" }}
@@ -68,7 +69,7 @@ const Projects = () => {
               </a>
               <a
                 target={"_blank"}
-                href="https://github.com/Durgesh9871/shallow-creature-244"
+                href="https://github.com/Sagar1079/fashion_hunter_project"
               >
                 {" "}
                 <Button
@@ -120,7 +121,7 @@ const Projects = () => {
               <li>Created Footer</li>
               <li>Worked on pricing page</li>
               <h2><b>
-                Tech stack -  JAVASCRIPT | Css | HTML |
+                Tech stack -  JavaScript | Css | HTML |
                 API | Es6 | FontAwesome
                 </b> </h2>
               <a
