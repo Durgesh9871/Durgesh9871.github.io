@@ -113,19 +113,16 @@ const Projects = () => {
               <a target={"_blank"} href="https://delicious-durgesh9871.vercel.app/">Delicious</a></u></h1>
               <h2><b>Delicious is your one-stop fresh meat delivery shop. In here, you get nothing but the freshest meat & seafood, delivered straight to your doorstep.</b></h2>
 
-              <li>Authentication and OTP verification</li>
-              <li>Authorization using token</li>
+              <li>Login & Sign Up</li>
               <li>Created Product Page </li>
-              <li>Dyanamic Filtering, Sorting and Pagination in Product page</li>
+              <li>Dynamic Filtering options on diffrent basics</li>
+              <li>Dynamic Sorting & Pagination in Product page</li>
               <li>Skeleton of page while loading</li>
               <li>Created Single page</li>
-              <li>Image magnify effect on Single page</li>
-              <li>Created Real time Review & Rating system</li>
-              <li>Created Review page & its Pagination</li>
-              <li>Created Wishlist & Cart Page</li>
+              <li>Cart Page for users to add Items</li>
              
               <h2><b>
-                Tech stack- NodeJs | ExpressJs | MongoDb | ReactJs | ChakraUi | Nodemailer | Css | HTML 
+                Tech stack-  ReactJs | ChakraUi | Redux | Css | HTML 
                 </b> </h2>
               <a target={"_blank"} href="https://delicious-durgesh9871.vercel.app/">
                 {" "}
@@ -139,7 +136,7 @@ const Projects = () => {
                   Website
                 </Button>
               </a>
-              
+
               <a
                 target={"_blank"}
                 href="https://github.com/prabhash1475/delicious"
