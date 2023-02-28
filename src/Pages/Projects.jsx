@@ -1,9 +1,10 @@
 import { Button } from "@chakra-ui/react";
 import { Icon, Box } from "@chakra-ui/react";
 import { BsGithub } from "react-icons/bs"; 
-
 import React from "react";
 import "../CssPages/Projects.css";
+import Anthropologie from "../Portfolio_Images/Anthropologie.png"
+
 
 const Projects = () => {
   return (
@@ -92,7 +93,7 @@ const Projects = () => {
             data-aos-anchor-placement="top-center"
           >
             <div>
-              <img src="https://github.com/Durgesh9871/ReadmeImages/raw/main/Anthro_Image/ClothPage/Screenshot%20(14).png?raw=true" />
+              <img src={Anthropologie}  />
             </div>
             <div className="ProjectD">
               <h1 style={{cursor:"pointer"}}><u>

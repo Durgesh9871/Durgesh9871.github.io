@@ -40,7 +40,7 @@ const Resume = ()=>{
     </MenuWrapper>
    <div className={`section_wrapper ${openMenuBar? "open_menu_bar":""}`} style={{cursor:"pointer"}}>
    <Link to="hero" spy={true} smooth={true} offset={-100} duration={700} onClick={closeMenu}> <h2 className="nav_catagory" ><CalendarIcon/> Home</h2></Link>
-   <Link to="aboutScroll" spy={true} smooth={true} offset={-180} duration={700} onClick={closeMenu}><h2 className="nav_catagory"><HamburgerIcon /> About</h2></Link>
+   <Link to="aboutScroll" spy={true} smooth={true} offset={-100} duration={700} onClick={closeMenu}><h2 className="nav_catagory"><HamburgerIcon /> About</h2></Link>
    <Link to="SkillScroll" spy={true} smooth={true} offset={-100} duration={700} onClick={closeMenu}> <h2 className="nav_catagory"><AddIcon />Skills</h2></Link>
    <Link  to="projectScroll" spy={true} smooth={true} offset={-100} duration={700} onClick={closeMenu} > <h2 className="nav_catagory"><AttachmentIcon /> Projects</h2></Link>
    <Link to="contactScroll" spy={true} smooth={true} offset={-100} duration={700} onClick={closeMenu} > <h2 className="nav_catagory"><PhoneIcon />Contact</h2></Link>
