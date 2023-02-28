@@ -24,7 +24,7 @@ const Projects = () => {
              
             <Box
             style={{ marginBottom: "50px" }}
-            bg="#4E6E8E"
+            bg="#f6d9b6"
             className="Project1"
             data-aos="fade-right"
             data-aos-offset="-100"
@@ -94,7 +94,7 @@ const Projects = () => {
              
          <Box
             style={{ marginBottom: "50px" }}
-            bg="#f6d9b6"
+            bg="#4e6e8e"
             className="Project1"
             data-aos="fade-right"
             data-aos-offset="-100"
@@ -190,6 +190,7 @@ const Projects = () => {
               <li>Created Home Page .</li>
               <li>Created Footer</li>
               <li>Worked on pricing page</li>
+              <li>Help Center & Wrike Blog page</li>
               <h2><b>
                 Tech stack -  JavaScript | Css | HTML |
                 API | Es6 | FontAwesome
