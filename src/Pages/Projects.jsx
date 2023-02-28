@@ -229,7 +229,7 @@ const Projects = () => {
             data-aos-anchor-placement="top-center"
           >
             <div>
-              <img src="https://entrackr.com/storage/2019/01/spotify-.jpg"  />
+              <img src="https://github.com/Durgesh9871/ReadmeImages/blob/main/Spotify_Images/Screenshot%20(108).png?raw=true"  />
             </div>
             <div className="ProjectD">
               <h1 style={{cursor:"pointer"}}><u>
