@@ -28,6 +28,7 @@ const Resume = ()=>{
   
 }  
 
+
   return (
    
   <div className='Navbar' style={{backgroundColor:theme?"black":"#011627"}} >
