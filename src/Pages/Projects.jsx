@@ -44,13 +44,15 @@ const Projects = () => {
 
 
               <li>
-                Created the Sign-in and Sign-up functionality
+                Created Responsive Product Page 
               </li>
-              <li>Created all category of Products pages .</li>
-              <li>Filtering options on diffrent basics</li>
-              <li>Sorting according to price</li>
-              <li>Created Home Page</li>
-              <li>Created Navbar and Footer</li>
+              <li>Created Dyanamic Filtering, Sorting and Pagination </li>
+              <li>Created Skeleton of Product Page</li>
+              <li>Created Responsive Single Page</li>
+              <li>Created Image magnify effect on Single Page</li>
+              <li>Created Real time Review & Rating system</li>
+              <li>Created Resonsive Review Page & its Pagination</li>
+              <li>Created Responsive Wishlist & Cart Page</li>
              
               <h2><b>
                 Tech stack- NodeJs | ExpressJs | MongoDb | ReactJs | ChankraUi | Nodemailer | Css | HTML 
