@@ -23,7 +23,7 @@ const Projects = () => {
              
             <Box
             style={{ marginBottom: "50px" }}
-            bg="#B794F4"
+            bg="#4E6E8E"
             className="Project1"
             data-aos="fade-right"
             data-aos-offset="-100"
@@ -44,18 +44,18 @@ const Projects = () => {
 
 
               <li>
-                Created Responsive Product Page 
+                Created Product Page 
               </li>
-              <li>Created Dyanamic Filtering, Sorting and Pagination </li>
-              <li>Created Skeleton of Product Page</li>
-              <li>Created Responsive Single Page</li>
-              <li>Created Image magnify effect on Single Page</li>
+              <li>Dyanamic Filtering, Sorting and Pagination in Product page</li>
+              <li>Skeleton of page while loading</li>
+              <li>Created Responsive Single page</li>
+              <li>Image magnify effect on Single page</li>
               <li>Created Real time Review & Rating system</li>
-              <li>Created Resonsive Review Page & its Pagination</li>
+              <li>Created Review page & its Pagination</li>
               <li>Created Responsive Wishlist & Cart Page</li>
              
               <h2><b>
-                Tech stack- NodeJs | ExpressJs | MongoDb | ReactJs | ChankraUi | Nodemailer | Css | HTML 
+                Tech stack- NodeJs | ExpressJs | MongoDb | ReactJs | ChakraUi | Nodemailer | Css | HTML 
                 </b> </h2>
               <a target={"_blank"} href="https://fashion-hunter.netlify.app/">
                 {" "}
