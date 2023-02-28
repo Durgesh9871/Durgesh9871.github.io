@@ -33,7 +33,7 @@ const Resume = ()=>{
   <div className='Navbar' style={{backgroundColor:theme?"black":"#011627"}} >
    <div className='Navbar-child1'>
     <h2>Durgesh</h2>
-    <Button    onClick={handleClick}>{theme?<SunIcon cursor="pointer" />:<MoonIcon cursor="pointer"  />}</Button>
+    {/* <Button    onClick={handleClick}>{theme?<SunIcon cursor="pointer" />:<MoonIcon cursor="pointer"  />}</Button> */}
     </div>
     <MenuWrapper onClick={toggleMenu}>
       <MenuButton openMenuBar={openMenuBar} />
