@@ -12,7 +12,7 @@ const Skills = () => {
   return (
     <div id="SkillScroll">
         <div  className='skill' >
-           <h1 style={{marginTop:"270px"}}>Skills</h1>
+           <h1>Skills</h1>
            <div className='SkillGrid'  >
                  <Box data-aos="fade-down"
     data-aos-offset="-100"
