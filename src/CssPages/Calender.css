@@ -9,7 +9,8 @@
     font-size: 30px;;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color:salmon;
-    margin-bottom: 50px;;
+    margin-bottom: 50px;
+    margin-top: -55px;
 }
 .calenderChild{
     margin: auto;
