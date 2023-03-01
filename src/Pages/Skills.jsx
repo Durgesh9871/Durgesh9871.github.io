@@ -137,29 +137,7 @@ const Skills = () => {
                   <h1 style={{color:"#718096"}}>ExpressJS</h1>
                  </Box>
 
-                
-
-                 {/*  Tools  */}
-                
-
-              
-
-          
-
-                 <Box data-aos="fade-down"
-    data-aos-offset="-100"
-    data-aos-delay="50"
-    data-aos-duration="1000"
-    data-aos-easing="ease-in-out"
-    data-aos-mirror="true"
-    data-aos-once="false"
-    data-aos-anchor-placement="top-center" boxShadow= "4px 4px #EBF8FF, -0em 1px .4em #EBF8FF"  >
-                 <img style={{borderRadius:"50%"}} src="https://img.icons8.com/material-outlined/512/verge.png" />
-                  <h1 style={{color:"#EBF8FF"}}>Vercel</h1>
-                 </Box>
-
-
-                
+ 
              </div>
 {/*  Tools are start --------------------- */}
                  <Text style={{marginTop:"100px" , color:"salmon" , fontSize:"30px" , fontWeight:"700" ,border:"2px  red" ,display:"flex" ,justifyContent:"center"}}>Tools</Text>
@@ -215,7 +193,21 @@ const Skills = () => {
                  <img style={{borderRadius:"50%"}} src="https://img.icons8.com/color/512/visual-studio-code-2019.png" />
                   <h1 style={{color:"#EBF8FF"}}>Vs Code</h1>
                  </Box>
+                  
+                  {/* Vercel---- */}
+                  <Box data-aos="fade-down"
+    data-aos-offset="-100"
+    data-aos-delay="50"
+    data-aos-duration="1000"
+    data-aos-easing="ease-in-out"
+    data-aos-mirror="true"
+    data-aos-once="false"
+    data-aos-anchor-placement="top-center" boxShadow= "4px 4px #EBF8FF, -0em 1px .4em #EBF8FF"  >
+                 <img style={{borderRadius:"50%"}} src="https://img.icons8.com/material-outlined/512/verge.png" />
+                  <h1 style={{color:"#EBF8FF"}}>Vercel</h1>
+                 </Box>
 
+                 
                  </div>
 
 
