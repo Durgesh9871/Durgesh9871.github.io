@@ -63,7 +63,7 @@
   @media only screen and (min-width: 300px) and (max-width: 439px) {
     .calender{
         margin:auto;
-        margin-top: 40px;;
+        margin-top: 140px;;
         width:97%;
         text-align:center;
     }
@@ -79,6 +79,7 @@
         font-size: 20px;;
         font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
         color:salmon;
+        margin-top: -440px;;
         margin-bottom: 20px;;
     }
     .calenderChild:hover{

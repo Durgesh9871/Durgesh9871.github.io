@@ -19,7 +19,7 @@ const Calender = () => {
         })
     }
   return (
-    <div   className="calender" data-aos="fade-up"
+    <div   className="calender" data-aos="fade-up" 
     data-aos-offset="-100"
     data-aos-delay="50"
     data-aos-duration="1000"
