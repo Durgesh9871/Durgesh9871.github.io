@@ -15,7 +15,7 @@ const Skills = () => {
            <h1 style={{marginTop:"270px"}}>Skills</h1>
            <div className='SkillGrid'  >
                  <Box data-aos="fade-down"
-    data-aos-offset="-100"
+    data-aos-offset="-300"
     data-aos-delay="50"
     data-aos-duration="1000"
     data-aos-easing="ease-in-out"
@@ -25,8 +25,9 @@ const Skills = () => {
                   <img src="https://chiranjeev-thapliyal.vercel.app/svg/html-5.svg" />
                   <h1 style={{color:"#C05621"}}>HTML</h1>
                  </Box>
+
                  <Box data-aos="fade-down"
-    data-aos-offset="-100"
+    data-aos-offset="-300"
     data-aos-delay="50"
     data-aos-duration="1000"
     data-aos-easing="ease-in-out"
@@ -36,8 +37,9 @@ const Skills = () => {
                  <img src="https://chiranjeev-thapliyal.vercel.app/svg/css3.svg" />
                   <h1 style={{color:"#4299E1"}}>CSS</h1>
                  </Box>
+
                  <Box data-aos="fade-down"
-    data-aos-offset="-100"
+    data-aos-offset="-300"
     data-aos-delay="50"
     data-aos-duration="1000"
     data-aos-easing="ease-in-out"
@@ -85,6 +87,7 @@ const Skills = () => {
                  <img style={{borderRadius:"50%"}} src="	https://velvety-croquembouche-9aebc1.netlify.app/static/media/typescript.f66836b8.svg" />
                   <h1 style={{color:"#4299E1"}}>Typescript</h1>
                  </Box>
+
                  <Box  data-aos="fade-down"
     data-aos-offset="-300"
     data-aos-delay="50"
@@ -96,8 +99,9 @@ const Skills = () => {
                  <img style={{borderRadius:"50%"}} src="https://pbs.twimg.com/profile_images/1244925541448286208/rzylUjaf_400x400.jpg" />
                   <h1 style={{color:"#76E4F7"}}>Chakra UI</h1>
                  </Box>
+
                  <Box data-aos="fade-down"
-    data-aos-offset="-100"
+    data-aos-offset="-300"
     data-aos-delay="50"
     data-aos-duration="1000"
     data-aos-easing="ease-in-out"
@@ -107,8 +111,9 @@ const Skills = () => {
                  <img src="https://chiranjeev-thapliyal.vercel.app/svg/nodejs.svg" />
                   <h1 style={{color:"#A0AEC0"}}>Node JS</h1>
                  </Box>
+
                  <Box data-aos="fade-down"
-    data-aos-offset="-100"
+    data-aos-offset="-300"
     data-aos-delay="50"
     data-aos-duration="1000"
     data-aos-easing="ease-in-out"
@@ -117,7 +122,7 @@ const Skills = () => {
     data-aos-anchor-placement="top-center" boxShadow= "4px 4px #48BB78, -0em 1px .4em #48BB78" ><img src="https://chiranjeev-thapliyal.vercel.app/svg/mongodb.svg" />
                   <h1 style={{color:"#48BB78"}}>MongoDB</h1></Box>
                  <Box data-aos="fade-down"
-    data-aos-offset="-100"
+    data-aos-offset="-300"
     data-aos-delay="50"
     data-aos-duration="1000"
     data-aos-easing="ease-in-out"
@@ -128,10 +133,11 @@ const Skills = () => {
                   <h1 style={{color:"#718096"}}>ExpressJS</h1>
                  </Box>
 
+
  
              </div>
 {/*  Tools are start --------------------- */}
-                 <Text style={{marginTop:"100px" , color:"salmon" , fontSize:"30px" , fontWeight:"700" ,border:"2px  red" ,display:"flex" ,justifyContent:"center"}}>Tools</Text>
+                 <Text style={{marginTop:"80px" , color:"salmon" , fontSize:"30px" , fontWeight:"700" ,border:"2px  red" ,display:"flex" ,justifyContent:"center"}}>Tools</Text>
                  {/* Tool code -- */}
                  <div className='SkillGrid'>
                   
