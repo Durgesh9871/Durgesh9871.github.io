@@ -147,6 +147,7 @@ const Skills = () => {
                  <img style={{borderRadius:"50%"}} src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
                   <h1 style={{color:"#EBF8FF"}}>Github</h1>
                  </Box>
+
                  {/* Netlify */}
                  <Box data-aos="fade-down"
     data-aos-offset="-100"
@@ -196,7 +197,21 @@ const Skills = () => {
     data-aos-anchor-placement="top-center" boxShadow= "4px 4px #EBF8FF, -0em 1px .4em #EBF8FF"  >
                  <img style={{borderRadius:"50%"}} src="https://img.icons8.com/material-outlined/512/verge.png" />
                   <h1 style={{color:"#EBF8FF"}}>Vercel</h1>
+                 </Box> 
+                 
+                 {/* Git */}
+                 <Box  data-aos="fade-down"
+    data-aos-offset="-100"
+    data-aos-delay="50"
+    data-aos-duration="1000"
+    data-aos-easing="ease-in-out"
+    data-aos-mirror="true"
+    data-aos-once="false"
+    data-aos-anchor-placement="top-center" boxShadow= "4px 4px #E53E3E, -0em 1px .4em #E53E3E" >
+                 <img src="https://chiranjeev-thapliyal.vercel.app/svg/git.svg" />
+                  <h1 style={{color:"#E53E3E"}}>GIT</h1>
                  </Box>
+
 
                  
                  </div>
