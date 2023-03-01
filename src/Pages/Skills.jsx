@@ -1,5 +1,5 @@
 import React from 'react'
-import { Box} from '@chakra-ui/react'
+import { Box , Text} from '@chakra-ui/react'
 import '../CssPages/Skills.css';
 import AOS from 'aos';
 import 'aos/dist/aos.css'
@@ -197,8 +197,19 @@ const Skills = () => {
                   <h1 style={{color:"#EBF8FF"}}>Vercel</h1>
                  </Box>
 
+
                 
              </div>
+{/*  Tools are start --------------------- */}
+                 <Text style={{marginTop:"100px" , color:"salmon" , fontSize:"30px" , fontWeight:"700" ,border:"2px  red" ,display:"flex" ,justifyContent:"center"}}>Tools</Text>
+                 {/* Tool code -- */}
+                 <div className='SkillGrid'>
+                  
+                   
+
+                 </div>
+
+
         </div>
        
         
