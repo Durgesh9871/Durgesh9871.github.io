@@ -47,17 +47,8 @@ const Skills = () => {
                  <img src="https://chiranjeev-thapliyal.vercel.app/svg/javascript.svg" />
                   <h1 style={{color:"#F6E05E"}}>Javascript</h1>
                  </Box>
-                 <Box  data-aos="fade-down"
-    data-aos-offset="-100"
-    data-aos-delay="50"
-    data-aos-duration="1000"
-    data-aos-easing="ease-in-out"
-    data-aos-mirror="true"
-    data-aos-once="false"
-    data-aos-anchor-placement="top-center" boxShadow= "4px 4px #E53E3E, -0em 1px .4em #E53E3E" >
-                 <img src="https://chiranjeev-thapliyal.vercel.app/svg/git.svg" />
-                  <h1 style={{color:"#E53E3E"}}>GIT</h1>
-                 </Box>
+
+
                  <Box data-aos="fade-down"
     data-aos-offset="-300"
     data-aos-delay="50"
