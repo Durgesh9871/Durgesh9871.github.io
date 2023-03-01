@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.5c8ae5b6.css",
-    "main.js": "/static/js/main.2a1886d2.js",
+    "main.css": "/static/css/main.88849526.css",
+    "main.js": "/static/js/main.28104a09.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/Delicious.png": "/static/media/Delicious.0d71cd2921e839b4b9ec.png",
     "static/media/Anthropologie.png": "/static/media/Anthropologie.b2278d13160b1a3b9250.png",
@@ -15,12 +15,12 @@
     "static/media/Durgesh_Singh.jpg": "/static/media/Durgesh_Singh.c064774b6a7498b666b6.jpg",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
-    "main.5c8ae5b6.css.map": "/static/css/main.5c8ae5b6.css.map",
-    "main.2a1886d2.js.map": "/static/js/main.2a1886d2.js.map",
+    "main.88849526.css.map": "/static/css/main.88849526.css.map",
+    "main.28104a09.js.map": "/static/js/main.28104a09.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5c8ae5b6.css",
-    "static/js/main.2a1886d2.js"
+    "static/css/main.88849526.css",
+    "static/js/main.28104a09.js"
   ]
 }
