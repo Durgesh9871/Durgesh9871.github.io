@@ -24,7 +24,7 @@ const toggleMenu=()=>{
 }
 
 const Resume = ()=>{
-  window.open("https://1drv.ms/b/s!AqcKQLC4DurdbxqaIvlWk1svY1c?e=mtcyJL");
+  window.open("https://drive.google.com/file/d/1es2EKQ-duhKbe2YQ9EqKgghs3jDxASh5/view?usp=sharing");
   
 }  
 
