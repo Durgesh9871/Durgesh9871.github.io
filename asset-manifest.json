@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.88849526.css",
-    "main.js": "/static/js/main.28104a09.js",
+    "main.js": "/static/js/main.7bbe480b.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
+    "static/media/Designer.png": "/static/media/Designer.24abdf79e007145c12bd.png",
     "static/media/Delicious.png": "/static/media/Delicious.0d71cd2921e839b4b9ec.png",
     "static/media/Anthropologie.png": "/static/media/Anthropologie.b2278d13160b1a3b9250.png",
     "static/media/Spotify.png": "/static/media/Spotify.f63e9af71e97e35012f1.png",
@@ -11,16 +12,16 @@
     "static/media/Weather.png": "/static/media/Weather.616f4f9b9867cad62139.png",
     "static/media/Wrike.png": "/static/media/Wrike.55560fa88ecd00da6f80.png",
     "static/media/Mentimeter.png": "/static/media/Mentimeter.5bc5b491bbb769e8423e.png",
-    "static/media/resume.pdf": "/static/media/resume.a6a04125e8a2bf25a224.pdf",
+    "static/media/resume.pdf": "/static/media/resume.d78423287839c9783b74.pdf",
     "static/media/Durgesh_Singh.jpg": "/static/media/Durgesh_Singh.c064774b6a7498b666b6.jpg",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
     "main.88849526.css.map": "/static/css/main.88849526.css.map",
-    "main.28104a09.js.map": "/static/js/main.28104a09.js.map",
+    "main.7bbe480b.js.map": "/static/js/main.7bbe480b.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.88849526.css",
-    "static/js/main.28104a09.js"
+    "static/js/main.7bbe480b.js"
   ]
 }
