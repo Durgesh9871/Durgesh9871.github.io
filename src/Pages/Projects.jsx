@@ -12,7 +12,8 @@ import Mentimeter from "../Portfolio_Images/Mentimeter.png"
 import Spotify from "../Portfolio_Images/Spotify.png"
 import Weather from "../Portfolio_Images/Weather.png"
 import Wrike from "../Portfolio_Images/Wrike.png"
- 
+import Designer from "../Portfolio_Images/Designer.png" 
+
 
 const Projects = () => {
   return (
@@ -27,7 +28,7 @@ const Projects = () => {
             style={{ marginBottom: "50px" }}
             bg="#f6d9b6"
             className="Project1"
-            data-aos="fade-right"
+            data-aos="fade-left"
             data-aos-offset="-100"
             data-aos-delay="50"
             data-aos-duration="1000"
@@ -90,10 +91,12 @@ const Projects = () => {
               </a>
             </div>
           </Box>
-  
-         {/* Delicious website ---------------- */}
+    
+
+
+       {/*  Fashion Designer ----------------- */}
              
-         <Box
+       <Box
             style={{ marginBottom: "50px" }}
             bg="#4e6e8e"
             className="Project1"
@@ -107,25 +110,28 @@ const Projects = () => {
             data-aos-anchor-placement="top-center"
           >
             <div>
-              <img src={Delicious}  />
+              <img src={Designer}  />
             </div>
             <div className="ProjectD">
               <h1 style={{cursor:"pointer"}}><u>
-              <a target={"_blank"} href="https://delicious-durgesh9871.vercel.app/">Delicious</a></u></h1>
-              <h2><b>Delicious is your one-stop fresh meat delivery shop. In here, you get nothing but the freshest meat & seafood, delivered straight to your doorstep.</b></h2>
+              <a target={"_blank"} href="https://fashion-gallery.vercel.app/">Fashion Gallary
+</a></u></h1>
+              <h2><b>Fashion Gallery is a premier online destination for men's fashion, featuring a carefully curated selection of clothing, shoes, and accessories from top brands.</b></h2>
 
-              <li>Login & Sign Up</li>
-              <li>Created Product Page </li>
-              <li>Dynamic Filtering options on diffrent basics</li>
-              <li>Dynamic Sorting & Pagination in Product page</li>
-              <li>Skeleton of page while loading</li>
-              <li>Created Single page</li>
-              <li>Cart Page for users to add Items</li>
+              <li>Authentication and OTP verification</li>
+              <li>Chatbot for customer support and query resolution</li>
+              <li>Forgot password and authentication functionality for user accounts</li>
+              <li>Advanced filtering and sorting options for products</li>
+              <li>Pagination to easily navigate through product listings</li>
+              <li>Responsive design for optimal viewing experience across devices</li>
+              <li>Admin panel with advanced functionalities for
+sales tracking, order management, and product
+listings, featuring pagination and search bar.</li>
              
               <h2><b>
-                Tech stack-  ReactJs | ChakraUi | Redux | Css | HTML 
+                Tech stack- NodeJs | ExpressJs | MongoDb | ReactJs | ChakraUi | Nodemailer | Css | HTML 
                 </b> </h2>
-              <a target={"_blank"} href="https://delicious-durgesh9871.vercel.app/">
+              <a target={"_blank"} href="https://fashion-gallery.vercel.app/">
                 {" "}
                 <Button
                   fontSize={{ base: "0.8em" }}
@@ -137,10 +143,9 @@ const Projects = () => {
                   Website
                 </Button>
               </a>
-
               <a
                 target={"_blank"}
-                href="https://github.com/prabhash1475/delicious"
+                href="https://github.com/Durgesh9871/Fashion-Gallery"
               >
                 {" "}
                 <Button
@@ -159,14 +164,13 @@ const Projects = () => {
             </div>
           </Box>
 
-
           {/* Siliconix Website  */}
 
           <Box
             style={{ marginBottom: "50px" }}
             bg="#eaebec"
             className="Project1"
-            data-aos="fade-right"
+            data-aos="fade-left"
             data-aos-offset="-100"
             data-aos-delay="50"
             data-aos-duration="1000"
@@ -235,7 +239,7 @@ const Projects = () => {
           <Box
             bg="#FEB2B2"
             className="Project1"
-            data-aos="fade-left"
+            data-aos="fade-right"
             data-aos-offset="-100"
             data-aos-delay="50"
             data-aos-duration="1000"
@@ -306,7 +310,7 @@ const Projects = () => {
             style={{ marginTop: "50px" }}
             bg="#B794F4"
             className="Project1"
-            data-aos="fade-right"
+            data-aos="fade-left"
             data-aos-offset="-100"
             data-aos-delay="50"
             data-aos-duration="1000"
@@ -314,6 +318,7 @@ const Projects = () => {
             data-aos-mirror="true"
             data-aos-once="false"
             data-aos-anchor-placement="top-center"
+            mb="40px"
           >
             <div>
               <img src={Anthropologie}  />
@@ -368,7 +373,77 @@ const Projects = () => {
               </a>
             </div>
           </Box>
+ 
 
+   {/* Delicious website ---------------- */}
+             
+   <Box
+            style={{ marginBottom: "50px" }}
+            bg="#4e6e8e"
+            className="Project1"
+            data-aos="fade-right"
+            data-aos-offset="-100"
+            data-aos-delay="50"
+            data-aos-duration="1000"
+            data-aos-easing="ease-in-out"
+            data-aos-mirror="true"
+            data-aos-once="false"
+            data-aos-anchor-placement="top-center"
+          >
+            <div>
+              <img src={Delicious}  />
+            </div>
+            <div className="ProjectD">
+              <h1 style={{cursor:"pointer"}}><u>
+              <a target={"_blank"} href="https://delicious-durgesh9871.vercel.app/">Delicious</a></u></h1>
+              <h2><b>Delicious is your one-stop fresh meat delivery shop. In here, you get nothing but the freshest meat & seafood, delivered straight to your doorstep.</b></h2>
+
+              <li>Login & Sign Up</li>
+              <li>Created Product Page </li>
+              <li>Dynamic Filtering options on diffrent basics</li>
+              <li>Dynamic Sorting & Pagination in Product page</li>
+              <li>Skeleton of page while loading</li>
+              <li>Created Single page</li>
+              <li>Cart Page for users to add Items</li>
+             
+              <h2><b>
+                Tech stack-  ReactJs | ChakraUi | Redux | Css | HTML 
+                </b> </h2>
+              <a target={"_blank"} href="https://delicious-durgesh9871.vercel.app/">
+                {" "}
+                <Button
+                  fontSize={{ base: "0.8em" }}
+                  className="btn"
+                  color="black"
+                  mb="15px"
+                  bg="white"
+                >
+                  Website
+                </Button>
+              </a>
+
+              <a
+                target={"_blank"}
+                href="https://github.com/prabhash1475/delicious"
+              >
+                {" "}
+                <Button
+                  fontSize={{ base: "0.8em" }}
+                  className="btn"
+                  color="white"
+                  bg="black"
+                  ml="10px"
+                  mb="15px"
+                >
+                  {" "}
+                  Github
+                  <Icon as={BsGithub} />
+                </Button>
+              </a>
+            </div>
+          </Box>
+
+          
 
           {/*  Mentimeter --- */}
           <Box
