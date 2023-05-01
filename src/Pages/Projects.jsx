@@ -42,7 +42,7 @@ const Projects = () => {
             </div>
             <div className="ProjectD">
               <h1 style={{cursor:"pointer"}}><u>
-              <a target={"_blank"} href="https://fashion-hunter.netlify.app/">Fashion Hunter</a></u></h1>
+              <a target={"_blank"} href="https://visionary-choux-df7148.netlify.app/">Fashion Hunter</a></u></h1>
               <h2><b>Looking for stylish men's clothing? Look no further than our e-commerce website, where you'll find the latest fashion trends at affordable prices. Shop now and upgrade your wardrobe with ease!</b></h2>
 
               <li>Authentication and OTP verification</li>
@@ -59,7 +59,7 @@ const Projects = () => {
               <h2><b>
                 Tech stack- NodeJs | ExpressJs | MongoDb | ReactJs | ChakraUi | Nodemailer | Css | HTML 
                 </b> </h2>
-              <a target={"_blank"} href="https://fashion-hunter.netlify.app/">
+              <a target={"_blank"} href="https://visionary-choux-df7148.netlify.app/">
                 {" "}
                 <Button
                   fontSize={{ base: "0.8em" }}
